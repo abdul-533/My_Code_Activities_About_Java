@@ -1,6 +1,6 @@
 package Gun17_Trim_and_Split;
 
-public class _04_CharVeSayi {
+public class _04_CharandNumber {
     public static void main(String[] args) {
         // Ascii table:
         int number = 65;
