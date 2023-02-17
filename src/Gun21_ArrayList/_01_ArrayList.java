@@ -28,16 +28,16 @@ public class _01_ArrayList {
         System.out.println("isThere = " + have);
 
         names.remove("Metin");
-        System.out.println("isimler = " + names);
+        System.out.println("Names = " + names);
 
         names.remove(1);
-        System.out.println("isimler = " + names);
+        System.out.println("Names = " + names);
 
         int indexofAynur = names.indexOf("Aynur");
         System.out.println("IndexofAynur = " + indexofAynur);
 
         String firstElement = names.get(0);
-        System.out.println("ilkEleman = " + firstElement);
+        System.out.println("First element = " + firstElement);
 
         names.clear();
         System.out.println("Names = " + names);
