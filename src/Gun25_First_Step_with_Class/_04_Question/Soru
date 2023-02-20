@@ -1,0 +1,6 @@
+        // A notepad program is requested for the teacher.
+        // Each student has schoolId(int), fullName(String) and grade(int).
+        // Get this information from the teacher for 20 students.
+        // print all students in one method.
+        // print the grade point average of the class again in a method.
+        // open separate file for required Class(es)
