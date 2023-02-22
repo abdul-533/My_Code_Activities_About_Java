@@ -1,0 +1,20 @@
+Difference and purpose of use of Static and non-Static methods
+-STATIC methods
+ 1) The word static is prefixed with it.
+ 2) GENERAL, i.e. covering all objects, i.e. object
+   It is created to use standalone methods without creating objects.
+ 3) Since these methods are not Object-specific, they are TYPE methods.
+   They can be used directly with the TYPE name.
+ 4) Appropriate example static methods available in Java such as Math.random
+   or functions like Integer.parseInt().
+
+-non-STATIC methods
+ 1) These methods are object-specific methods.
+ 2) Since it has to work with the values of the object-specific object
+   Be sure to create an object with new. They are used with object variable.
+
+
+That is, the methods that will work by needing object properties are normal methods.
+      Since it is of general interest to the methods that will work without the need for object properties
+            Since it should belong to the TYPE, static is prefixed with the name of the TYPE directly.
+            they are used.
