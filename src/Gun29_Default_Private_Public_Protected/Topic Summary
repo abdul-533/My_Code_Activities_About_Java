@@ -1,0 +1,18 @@
+Access Modifiers (Access tokens, permissions)
+public, private, protected, default(no written state, friendly)
+
+1- Access from within the class
+Access from within 2-package
+3-access from within the project
+
+public : access from all sides of the project, that is, all other banners can access it.
+         class, method, field
+
+default: (friendly) : if no token is written : Only those in the package it is in can access.
+         class, method, field
+
+private: access only from inside the class:
+         method, field
+
+protected : works the same as default, it has a feature, 3 issues later for extra status
+            will return here.
