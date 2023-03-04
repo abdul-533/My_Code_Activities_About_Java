@@ -1,0 +1,7 @@
+Define a class named employee properties/fields(name, salary, salaryNumber(int))
+Add the consructor and the method with the salary (salary*salaryNumber). Add the toString method.
+Derive a class named GenelMudur from the Employee class and add compensation as an extra field.
+Add compensation to the salary account in the General Manager class.
+By defining 1 employee and 1 General Manager, where main is written as SirketMain,
+Calculate the salaries and print the payroll.
+
