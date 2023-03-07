@@ -1,0 +1,7 @@
+// 1- Create a superclass named Vehicle, fields : color, engineVolume, brand.
+    // 2- Add the constructor. Add the get and set methods and the toString Method.
+    // 3- Generate the Bus class from this class, and add the passenger capacity field of the bus.
+    // 4- Create a class named AracPark with main in it and from the Bus
+    // Create an object and print all the properties of the Bus to the screen.
+
+

@@ -1,0 +1,7 @@
+// 1- Create a class named Student with id, name and type (ENUM PRIMARY, MIDDLE, HIGH SCHOOL).
+    // 2- Generate a class named LiseOgrenci from the Student class, field: branches (String, MF,TM)
+    // 3- Generate a class named PrimaryStudent from the Student class, filed: club (String SATRANC, THEATER ..)
+    // 4- Create 3 different types of students in the main named School,
+    // 5- Give each student a number from a counter defined in the Student class.
+
+// here we define the counter separately for ker Claslar
