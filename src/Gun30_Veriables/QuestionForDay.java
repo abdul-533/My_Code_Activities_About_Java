@@ -33,7 +33,7 @@ public class QuestionForDay {
         // then the final values of a and b are matched
         System.out.println("gs2.a = " + gs2.a);
         System.out.println("gs2.a = " + gs2.a);
-        System.out.println("Soru b=" + QuestionForDay.b);
+        System.out.println("Question_01 b=" + QuestionForDay.b);
 
 
     }

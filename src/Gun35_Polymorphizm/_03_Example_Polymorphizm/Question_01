@@ -1,0 +1,4 @@
+1-Write a class named Student with name, surname, task and branch.
+2-Write a class named Calisan with name, surname, task, department.
+3- It is also valid for 2 objects that you will create from the above classes.
+  Write a single method that creates an identity document form that will be
